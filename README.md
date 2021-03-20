@@ -1,5 +1,7 @@
 # mysuperhero
 
+Simple Vue Project with API Call
+
 ## Project setup
 ```
 npm install
